@@ -22,4 +22,4 @@ RUN dotnet publish "./DockerSample.WEB.csproj" -c $BUILD_CONFIGURATION -o /app/p
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "DockerSample.WEB.dll"]
+ENTRYPOINT ["dotnet", "DockerSample.WEB.dll"] 
