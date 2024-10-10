@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iTvoBga+y6DQ/JpdFSmKR8Flz7QwV1ULltBa+Ny0WuI=",
+  "Source": "DockerSample.WEB",
+  "BasePath": "_content/DockerSample.WEB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
